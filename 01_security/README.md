@@ -130,7 +130,8 @@ go get -u github.com/go-chi/chi
 - либо сделать его обязательным, но для признака **с любого ip** использовать какое-то специально значение, например `*` (диапазоны адресов реализовывать не нужно)
 
 </details>
-* [HTTP Basic](https://tools.ietf.org/html/rfc2617#section-2) (передаётся заголовок `Authorization: Basic base64(username:password)`), для извлечения есть специальный метод [BasicAuth](https://golang.org/pkg/net/http/#Request.BasicAuth)
+
+*  [HTTP Basic](https://tools.ietf.org/html/rfc2617#section-2) (передаётся заголовок `Authorization: Basic base64(username:password)`), для извлечения см. [BasicAuth](https://golang.org/pkg/net/http/#Request.BasicAuth)
 * `Content-Type`: `application/json`:
 
 ```json
