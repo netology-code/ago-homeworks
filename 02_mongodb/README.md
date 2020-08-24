@@ -90,15 +90,15 @@
 
 ### Легенда
 
-<summary>
-<details>Легенда</details>
+<details>
+<summary>Легенда</summary>
 
 На лекции мы рассматривали пример с фильмами. Сейчас же нас интересует хранение ресторанов.
 
 Возьмём для примера два: [Ресторан Коптильня](https://www.tinkoff.ru/entertainment/moskva/restaurant-100012620/) и [Ресторан Северяне](https://www.tinkoff.ru/entertainment/moskva/restaurant-100000103/).
 
 Примечание: если по каким-то причинам они не доступны на сайте, мы сохранили полные скриншоты страниц: [Ресторан Коптильня](pic/restaurant01.png) и [Ресторан Северяне](pic/restaurant02.png).
-</summary>
+</details>
 
 ### Задача
 
