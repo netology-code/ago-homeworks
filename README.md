@@ -24,7 +24,7 @@
 
 3.1. [x] Микросервисная архитектура (ДЗ не предусмотрено)
 
-3.2. [ ] [Микросервисы: Synchronous Communication](09_micro-sync)
+3.2. [x] [Микросервисы: Synchronous Communication](09_micro-sync)
 
 3.3. [ ] [Микросервисы: Event-Driven Communication](10_mirco-events)
 
