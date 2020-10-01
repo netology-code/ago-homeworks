@@ -26,7 +26,7 @@
 
 3.2. [x] [Микросервисы: Synchronous Communication](09_micro-sync)
 
-3.3. [ ] [Микросервисы: Event-Driven Communication](10_mirco-events)
+3.3. [x] [Микросервисы: Event-Driven Communication](10_micro-events)
 
 3.4. [ ] [Микросервисы: Service Discovery, Distributed Tracing](11_micro-tracing)
 
