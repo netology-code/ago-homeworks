@@ -30,7 +30,7 @@
 
 3.4. [x] [Микросервисы: Service Discovery, Distributed Tracing](11_micro-tracing)
 
-3.5. [ ] [Микросервисы: обеспечение безопасности](12_security)
+3.5. [x] [Микросервисы: обеспечение безопасности](12_security)
 
 ## Блок 4. Kubernetes
 
