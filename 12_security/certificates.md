@@ -9,7 +9,7 @@
 #### Создайте закрытый ключ и сертификат, со сроком действия в 365 дней:
 
 ```shell script
-openssl req -newkey rsa:2048 -noenc -x509 -days 365 -keyout key.pem -out certificate.pem -subj "/C=RU/ST=Moscow/L=Moscow/O=Development/OU=Dev/CN=netology.local"
+openssl req -newkey rsa:2048 -nodes -x509 -days 365 -keyout key.pem -out certificate.pem -subj "/C=RU/ST=Moscow/L=Moscow/O=Development/OU=Dev/CN=netology.local"
 ```
 
 Где [`req`](https://www.openssl.org/docs/manmaster/man1/openssl-req.html) - подкоманда, отвечающая за генерацию ключей.
