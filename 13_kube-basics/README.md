@@ -152,7 +152,7 @@ kubectl create secret docker-registry github-packages --docker-server=https://do
 * `--docker-password` - Access Token на GitHub (**изменяете на свой**)
 * `--docker-email` - Email на GitHub (**изменяете на свой**)
 
-Посмотреть, что секрет действительно создался,можно с помощью команды:
+Посмотреть, что секрет действительно создался, можно с помощью команды:
 
 ```shell script
 kubectl get secret github-packages --output=yaml
