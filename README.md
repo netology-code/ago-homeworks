@@ -34,7 +34,7 @@
 
 ## Блок 4. Kubernetes
 
-4.1. [ ] [Kubernetes: основы](13_kube-basics)
+4.1. [x] [Kubernetes: основы](13_kube-basics)
 
 4.2. [ ] [Kubernetes: проектирование и развёртывание приложений](14_kube-dev)
 
