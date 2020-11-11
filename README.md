@@ -2,46 +2,44 @@
 
 Важно: [Примеры кода из лекций](https://github.com/netology-code/ago-code)
 
-## Блок 1. Security & NoSQL
+Блок 1. Промышленные сервисы:
 
-1.1. [x] [Идентификация, аутентификация и авторизация](01_security)
+1.1 [x] [REST и JSON over HTTP](01_rest)
 
-1.2. [x] [Нереляционные базы данных - MongoDB](02_mongodb)
+1.1 Идентификация, аутентификация
 
-1.3. [x] [Нереляционные базы данных - использование из Go](03_gomongodb)
+1.2 Авторизация
 
-## Блок 2. Кэширование и gRPC
+1.3 JWT
 
-2.1. [x] [Кэширование данных - Redis](04_redis)
+Блок 2. Кэширование и gRPC:
 
-2.2. [x] [Кэширование данных - использование из Go](05_goredis)
+2.1 Кэширование данных - Redis
 
-2.3. [x] [gRPC (часть 1)](06_grpc1)
+2.2 Кэширование данных - использование из Go
 
-2.4. [x] [gRPC (часть 2)](07_grpc2)
+2.3 gRPC (часть 1)
 
-## Блок 3. Разработка микросервисов
+2.4 gRPC (часть 2)
 
-3.1. [x] Микросервисная архитектура (ДЗ не предусмотрено)
+Блок 3. Микросервисы
 
-3.2. [x] [Микросервисы: Synchronous Communication](09_micro-sync)
+4.1 Микросервисная архитектура
 
-3.3. [x] [Микросервисы: Event-Driven Communication](10_micro-events)
+4.2 Микросервисы: Synchronous Communication
 
-3.4. [x] [Микросервисы: Service Discovery, Distributed Tracing](11_micro-tracing)
+4.3 Микросервисы: Event-Driven Communication (часть 1)
 
-3.5. [x] [Микросервисы: обеспечение безопасности](12_security)
+4.4 Микросервисы: Event-Driven Communication (часть 2)
 
-## Блок 4. Kubernetes
+Блок 4. Kubernetes
 
-4.1. [x] [Kubernetes: основы](13_kube-basics)
+5.1 Kubernetes: основы
 
-4.2. [ ] [Kubernetes: проектирование и развёртывание приложений](14_kube-dev)
+5.2 Kubernetes: Stateless сервисы
 
-4.3. [ ] [Kubernetes: обновление приложений, мониторинг и сбор логов](15_kube-ops)
+5.3 Kubernetes: Stateful сервисы
 
-
-Доп.материалы: см. в репозитории [кодом](https://github.com/netology-code/ago-code).
+Доп.материалы: см. в репозитории [кодом](https://github.com/netology-code/ago-code/tree/ago2).
 
 По всем вопросам: coursar
-
