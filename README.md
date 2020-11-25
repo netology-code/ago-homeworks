@@ -24,21 +24,21 @@
 
 Блок 3. Микросервисы
 
-4.1 Микросервисная архитектура
+3.1 [x] Микросервисная архитектура (ДЗ не предусмотрено)
 
-4.2 Микросервисы: Synchronous Communication
+3.2 [ ] [Микросервисы: Synchronous Communication](10_micro)
 
-4.3 Микросервисы: Event-Driven Communication (часть 1)
+3.3 [ ] [Микросервисы: Event-Driven Communication (часть 1)](11_micro)
 
-4.4 Микросервисы: Event-Driven Communication (часть 2)
+3.4 [ ] [Микросервисы: Event-Driven Communication (часть 2)](12_micro)
 
 Блок 4. Kubernetes
 
-5.1 Kubernetes: основы
+4.1 [ ] [Kubernetes: основы](13_kube)
 
-5.2 Kubernetes: Stateless сервисы
+4.2 [ ] [Kubernetes: Stateless сервисы](14_kube)
 
-5.3 Kubernetes: Stateful сервисы
+4.3 [ ] [Kubernetes: Stateful сервисы](15_kube)
 
 Доп.материалы: см. в репозитории [кодом](https://github.com/netology-code/ago-code/tree/ago2).
 
