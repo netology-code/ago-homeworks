@@ -1,6 +1,6 @@
 # Домашние задания по курсу «Advanced Go»
 
-Важно: [Примеры кода из лекций](https://github.com/netology-code/ago-code)
+Важно: [Примеры кода из лекций](https://github.com/netology-code/ago-code/tree/ago2)
 
 Блок 1. Промышленные сервисы:
 
@@ -26,11 +26,11 @@
 
 3.1 [x] Микросервисная архитектура (ДЗ не предусмотрено)
 
-3.2 [ ] [Микросервисы: Synchronous Communication](10_micro)
+3.2 [ ] [Микросервисы: Synchronous Communication](10_micro-sync)
 
-3.3 [ ] [Микросервисы: Event-Driven Communication (часть 1)](11_micro)
+3.3 [ ] [Микросервисы: Event-Driven Communication (часть 1)](11_kafka)
 
-3.4 [ ] [Микросервисы: Event-Driven Communication (часть 2)](12_micro)
+3.4 [ ] [Микросервисы: Event-Driven Communication (часть 2)](12_gokafka)
 
 Блок 4. Kubernetes
 
