@@ -23,7 +23,7 @@
 
 На лекции мы реализовали микросервисы, "используя" REST в качестве коммуникации между ними.
 
-Что нужно сделать: замените коммуникации между сервисом Backend и сервисом Transactions на gRPC. Используйте [готовый код с лекции](https://github.com/netology-code/ago-code/tree/ago2/10_micro-sync).
+Что нужно сделать: замените коммуникации между сервисом Backend и сервисом Transactions на gRPC. Используйте [готовый код с лекции](https://github.com/netology-code/ago-code/tree/ago2/10_micro-sync). Вы можете выбрать любую версию на ваше усмотрение: с JWT или без.
 
 <details>
 <summary>Описание изменений</summary>
