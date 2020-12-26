@@ -41,5 +41,3 @@
 4.3 [ ] [Kubernetes: Stateful сервисы](15_kube)
 
 Доп.материалы: см. в репозитории [кодом](https://github.com/netology-code/ago-code/tree/ago2).
-
-По всем вопросам: coursar
