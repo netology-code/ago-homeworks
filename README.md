@@ -42,6 +42,3 @@
 
 
 Доп.материалы: см. в репозитории [кодом](https://github.com/netology-code/ago-code).
-
-По всем вопросам: coursar
-
