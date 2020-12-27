@@ -26,9 +26,9 @@
 
 3.1 [x] Микросервисная архитектура (ДЗ не предусмотрено)
 
-3.2 [ ] [Микросервисы: Synchronous Communication](10_micro-sync)
+3.2 [x] [Микросервисы: Synchronous Communication](10_micro-sync)
 
-3.3 [ ] [Микросервисы: Event-Driven Communication (часть 1)](11_kafka)
+3.3 [x] Микросервисы: Event-Driven Communication (часть 1) (ДЗ не предусмотрено)
 
 3.4 [ ] [Микросервисы: Event-Driven Communication (часть 2)](12_gokafka)
 
