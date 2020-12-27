@@ -30,7 +30,7 @@
 
 3.3 [x] Микросервисы: Event-Driven Communication (часть 1) (ДЗ не предусмотрено)
 
-3.4 [ ] [Микросервисы: Event-Driven Communication (часть 2)](12_gokafka)
+3.4 [x] [Микросервисы: Event-Driven Communication (часть 2)](12_gokafka)
 
 Блок 4. Kubernetes
 
