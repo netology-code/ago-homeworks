@@ -36,7 +36,7 @@
 
 4.1 [x] Kubernetes: основы (ДЗ не предусмотрено)
 
-4.2 [ ] [Kubernetes: Stateless сервисы](14_kube)
+4.2 [x] [Kubernetes: Stateless сервисы](14_kube)
 
 4.3 [ ] [Kubernetes: Stateful сервисы](15_kube)
 
