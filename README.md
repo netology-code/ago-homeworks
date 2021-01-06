@@ -38,6 +38,6 @@
 
 4.2 [x] [Kubernetes: Stateless сервисы](14_kube)
 
-4.3 [ ] [Kubernetes: Stateful сервисы](15_kube)
+4.3 [x] Kubernetes: Stateful сервисы (ДЗ не предусмотрено)
 
 Доп.материалы: см. в репозитории [кодом](https://github.com/netology-code/ago-code/tree/ago2).
