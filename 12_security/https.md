@@ -87,6 +87,8 @@ func execute(addr string, certificatePath string) (err error) {
 	client := &http.Client{Transport: &http.Transport{
 		TLSClientConfig: &tls.Config{
 			RootCAs: pool,
+			// строка ниже нужна, чтобы можно было использовать самоподписные сертификаты на сервере
+			InsecureSkipVerify: true,
 		},
 	}}
 
